@@ -1,0 +1,4 @@
+desktop.ini
+/data/raw/*
+/data/interpreted/*
+/.venv/
